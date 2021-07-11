@@ -4,7 +4,18 @@
 
 -------------------------
 - Input exemple:
-- 
-INPUT = [(-6,2), (-8,-2), (-2,-2), (0,1), (-1,2), (1,4), (-1,5), (-2,6), (-3,4), (-3,2), (-2,0), (-4,0), (-5,3), (-4,6), (-7,5), (-9,3)]
+[(-6,2), (-8,-2), (-2,-2), (0,1), (-1,2), (1,4), (-1,5), (-2,6), (-3,4), (-3,2), (-2,0), (-4,0), (-5,3), (-4,6), (-7,5), (-9,3)]
 
 ![Polygon input plot](./exemples/input.jpeg)
+
+- Ear-clipping exemple:
+
+![Ear-clipping plot](./exemples/ear-clipping.jpeg)
+
+- Triangulation exemple:
+
+![Triangulation plot](./exemples/triangulation.jpeg)
+
+- Coloring exemple:
+
+![Coloring plot](./exemples/coloring.jpeg)
