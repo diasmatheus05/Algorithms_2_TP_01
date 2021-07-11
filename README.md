@@ -9,14 +9,14 @@
 
 - Ear-clipping exemple:
 
-![Ear-clipping plot](./exemples/ear-clipping.jpeg)
+![Ear-clipping plot](./exemples/ear-clipping.jpg)
 
 - Triangulation exemple:
 
-![Triangulation plot](./exemples/triangulation.jpeg)
+![Triangulation plot](./exemples/triangulation.jpg)
 
 - Coloring exemple:
 
-![Coloring plot](./exemples/coloring.jpeg)
+![Coloring plot](./exemples/coloring.jpg)
 
 All graphics were plotted using a HoloViews library
