@@ -2,6 +2,7 @@
 
 ### Polygons triangulation with Ear-clipping algorithm and vertices coloring (3-coloring)
 
+All graphics were plotted using a HoloViews library
 -------------------------
 - Input exemple:
 [(-6,2), (-8,-2), (-2,-2), (0,1), (-1,2), (1,4), (-1,5), (-2,6), (-3,4), (-3,2), (-2,0), (-4,0), (-5,3), (-4,6), (-7,5), (-9,3)]
